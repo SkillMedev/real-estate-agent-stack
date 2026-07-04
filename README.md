@@ -9,7 +9,7 @@ Reach for this when you sell residential real estate and the between-showings wo
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/real-estate-agent-stack](https://skillme.dev/pack/real-estate-agent-stack) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/real-estate-agent-stack`
+- **With the skills CLI:** `npx skills add SkillMedev/real-estate-agent-stack`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
