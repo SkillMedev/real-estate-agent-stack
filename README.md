@@ -2,7 +2,7 @@
 
 **For residential agents: listings that sell, nurture that converts, negotiations you control.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Reach for this when you sell residential real estate and the between-showings work decides your year: listing copy, pricing conversations, follow-up, and negotiation prep. It covers the agent's actual workflow — write listing descriptions that sell the property without fair-housing risk, turn a CMA into a pricing story sellers accept, convert open-house visitors with same-evening follow-up, keep unready buyers warm for months with context-rich nurture, win listings before the competition is invited via seller-lead touches, and walk into offer and inspection negotiations with a prepared position instead of improvisation. Every skill carries fair-housing and brokerage-compliance guardrails. One worked example — a suburban agent building from 14 toward 24 transactions — threads throughout.
+Reach for this when you sell residential real estate and the between-showings work decides your year: listing copy, pricing conversations, follow-up, and negotiation prep. It covers the agent's actual workflow - write listing descriptions that sell the property without fair-housing risk, turn a CMA into a pricing story sellers accept, convert open-house visitors with same-evening follow-up, keep unready buyers warm for months with context-rich nurture, win listings before the competition is invited via seller-lead touches, and walk into offer and inspection negotiations with a prepared position instead of improvisation. Every skill carries fair-housing and brokerage-compliance guardrails. One worked example - a suburban agent building from 14 toward 24 transactions - threads throughout.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -14,8 +14,8 @@ Reach for this when you sell residential real estate and the between-showings wo
 
 ## Skills in this pack
 
-- **[Listing Description Writer](skills/listing-description-writer/SKILL.md)** — Writes MLS and portal listing copy that sells the property — lead with the differentiator, translate features into benefits, specifics over adjectives, platform length limits, and a fair-housing-safe banned-claims list.
-- **[CMA Narrative Builder](skills/cma-narrative-builder/SKILL.md)** — Turns a comparative market analysis into a pricing story a seller accepts — defensible comp selection, plain-language adjustments, the overpricing-cost math, and a price-band recommendation aligned to portal search brackets.
+- **[Listing Description Writer](skills/listing-description-writer/SKILL.md)** — Writes MLS and portal listing copy that sells the property - lead with the differentiator, translate features into benefits, specifics over adjectives, platform length limits, and a fair-housing-safe banned-claims list.
+- **[CMA Narrative Builder](skills/cma-narrative-builder/SKILL.md)** — Turns a comparative market analysis into a pricing story a seller accepts - defensible comp selection, plain-language adjustments, the overpricing-cost math, and a price-band recommendation aligned to portal search brackets.
 - **[Open House Follow-Up](skills/open-house-follow-up/SKILL.md)** — Converts open-house visitors into clients with door capture, a same-evening first touch, a 3-touch follow-up sequence, and buyer-signal triage by financing and timeline.
 - **[Buyer Nurture Sequence](skills/buyer-nurture-sequence/SKILL.md)** — Keeps not-yet-ready homebuyers warm for months with timeline-based segmentation, listing alerts with a why-this-one note, a monthly market-update touch, the pre-approval nudge, and re-engagement triggers.
 - **[Seller Lead Nurture](skills/seller-lead-nurture/SKILL.md)** — Wins listings before competitors are invited by nurturing homeowner leads with quarterly home-value updates, an equity-position letter, lifecycle triggers like a neighborhood sale, and the CMA offer as the conversion event.
